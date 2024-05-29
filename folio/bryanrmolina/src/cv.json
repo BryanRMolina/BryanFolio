@@ -1,0 +1,174 @@
+{
+    "basics": {
+      "name": "Bryan Roa Molina",
+      "label": "System Ingenier | Developer | FrontEnd | Database | SCRUM | HelpDesk II",
+      "image": "https://i.postimg.cc/DzzSXGgL/WIN-20240522-16-09-31-Pro.jpg",
+      "email": "BryanR.Molina@outlook.com",
+      "phone": "(829)-665-6575",
+      "url": "https://johndoe.com",
+      "summary": "Systems Engineer, passionate about web application development and the incredible world of databases. I constantly seek challenges that allow me to develop and optimize my knowledge. I have experience in agile methodologies such as SCRUM. I consider myself a person with a high capacity for adaptation, friendly, responsible, and competitive.",
+      "location": {
+        "address": "",
+        "postalCode": "",
+        "city": "🌐 Santo Domingo",
+        "countryCode": "🇩🇴",
+        "region": ""
+        
+      },
+      "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "john",
+        "url": "https://jkanime.net/enen-no-shouboutai/3/"
+      },
+      {
+        "network": "GitHub",
+        "username": "john",
+        "url": "https://jkanime.net/enen-no-shouboutai/3/"
+      }]
+    },
+    "work": [
+      {
+        "name": "MINISTERIO DE VIVIENDA Y EDIFICACIONES (MIVED)",
+        "position": "HELP DESK II",
+        "url": "",
+        "startDate": "2023-05-01",
+        "endDate": null,
+        "summary": "Currently, I have responsibilities such as managing the PrinterServer, preparing reports, gathering data to be processed in Excel, managing implemented software, remote assistance, among others.",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
+        "name": "FREELANCER",
+        "position": "PROGRAMMER",
+        "url": "",
+        "startDate": "2023-03-01",
+        "endDate": null,
+        "summary": "I have decided to enter the freelance world offering websites, e-commerce solutions, and ERP systems developed with AppSheet, among others",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
+        "name": "MINISTERIO DE VIVIENDA Y EDIFICACIONES (MIVED)",
+        "position": "HELP DESK",
+        "url": "",
+        "startDate": "2022-10-01",
+        "endDate": "2023-05-01",
+        "summary": "My responsibilities included providing assistance to institution users, hardware maintenance, installation and migration of technological equipment, and monitoring installed infrastructure.",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+    {
+      "name": "BLUE BOX SOLUTIONS",
+      "position": "HELP DESK",
+      "url": "",
+      "startDate": "2022-07-01",
+      "endDate": "2022-09-01",
+      "summary": "INTERSHIP - I performed the role of infrastructure support with the responsibilities of supervising operating systems, monitoring installed infrastructure, assisting users from different companies with computer equipment maintenance, installing and migrating equipment, providing remote technical support, etc.",
+      "highlights": [
+        "Started the company"
+      ]
+    }],
+
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "INSTITUTO TECNOLOGICO DE SANTO DOMINGO (INTEC)",
+      "url": "",
+      "area": "System Engineer",
+      "studyType": "Bachelor",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "score": "",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Azure Fudamentals (AZ-900)",
+      "date": "MAY - 2024",
+      "issuer": "MICROSOFT",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [{
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }],
+    "languages": [{
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Mid-level"
+    }],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [{
+      "name": "Project",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Description...",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "https://project.com/"
+    }]
+  }
