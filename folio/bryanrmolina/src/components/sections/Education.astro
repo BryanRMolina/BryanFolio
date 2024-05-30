@@ -1,5 +1,114 @@
 ---
 import Section from "../Section.astro";
+import {education} from 'C:/Users/BryanRoa/Downloads/PortFolio/folio/bryanrmolina/src/cv.json'
+
 ---
 
-<Section title = "Education"> </Section>
+<Section title = "Education">
+    <ul>
+        {education.map(({ url, institution, startDate, endDate, area, studyType}) => 
+            {
+           
+           
+                const mesesAbreviados = ['JAN','FEB','MAR','APR','MAY','JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC'];
+    
+                const startYear = new Date(startDate).getFullYear()
+                const startMoth = new Date(startDate)
+                const mothAb = mesesAbreviados[startMoth.getMonth()];
+    
+                const endYear = endDate != null ? new Date(endDate).getFullYear() : "CURRENT"
+                const endMoth = endDate != null ? mesesAbreviados[new Date(endDate).getMonth()] : ""
+    
+                const years = `${startYear} ${mothAb} - ${endYear} ${endMoth}`
+    
+                return(
+                    <li>
+                        <article>
+                            <header>
+                                <div>
+                                    <a href={url} title="See the badget">
+                                        <h3>{institution}</h3>                                          
+                                    </a>
+
+                                    <h4>{area}</h4>
+                                </div>
+                                <time>{years}</time>
+                            </header>
+                            <footer>
+                            </footer>
+                        </article>
+                    </li>
+                )
+        })}
+    
+    </ul>
+
+    <footer>
+        <a href="https://drive.google.com/drive/folders/1TNLoi-UjjN1fyeIG1ois6M1MjWwKG88a?usp=drive_link", title="See the badget">
+            <p>If you want see more, click here.</p>
+        </a>
+    </footer>
+    
+</Section>
+
+<style>
+     ul{
+        display: flex;
+        flex-direction: column;
+        gap: 32px;
+    }
+
+    article h3{
+        font-weight: 500;
+        color: #111;
+        text-align: left;
+    }
+    article h4{
+        color: #222;
+        font-weight: 400;
+    }
+    header{
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        margin-bottom: 4px;
+    }
+
+    time{
+        color: #555;
+        font-size: 0.85rem;
+    }
+
+    article{
+    
+        border-radius: 10px;
+        background: #eee;
+        color: black;
+        font-size: .8rem;
+        font-weight: 500;
+        padding: 0.2rem .6rem;  
+
+    }
+
+    li{
+        border-radius: 10px;
+        background: #eee;
+        color: black;
+        font-size: .8rem;
+        font-weight: 500;
+        padding: 1rem .6rem;  
+    }
+
+    a{
+        text-align: center;
+        padding: 1rem .6rem;  
+    }
+
+    p{
+        background: antiquewhite;
+;
+        padding: 1rem .6rem; 
+        border-radius: 50px; 
+    }
+
+</style>

@@ -19,12 +19,12 @@
       {
         "network": "LinkedIn",
         "username": "john",
-        "url": "https://jkanime.net/enen-no-shouboutai/3/"
+        "url": "https://www.linkedin.com/in/bryan-roa-molina-89060b200"
       },
       {
         "network": "GitHub",
         "username": "john",
-        "url": "https://jkanime.net/enen-no-shouboutai/3/"
+        "url": "https://github.com/BryanRMolina"
       }]
     },
     "work": [
@@ -65,8 +65,8 @@
       "name": "BLUE BOX SOLUTIONS",
       "position": "HELP DESK",
       "url": "",
-      "startDate": "2022-07-01",
-      "endDate": "2022-09-01",
+      "startDate": "2022-02-01",
+      "endDate": "2022-08-01",
       "summary": "INTERSHIP - I performed the role of infrastructure support with the responsibilities of supervising operating systems, monitoring installed infrastructure, assisting users from different companies with computer equipment maintenance, installing and migrating equipment, providing remote technical support, etc.",
       "highlights": [
         "Started the company"
@@ -74,14 +74,14 @@
     }],
 
     "volunteer": [{
-      "organization": "Organization",
-      "position": "Volunteer",
-      "url": "https://organization.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Description…",
+      "organization": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Awarded 'Volunteer of the Month'"
+        ""
       ]
     }],
     "education": [{
@@ -89,18 +89,78 @@
       "url": "",
       "area": "System Engineer",
       "studyType": "Bachelor",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
+      "startDate": "2019-11-12",
+      "endDate": "2023-11-12",
       "score": "",
       "courses": [
-        "DB1101 - Basic SQL"
+        ""
+      ]
+    },
+    {
+      "institution":"Microsoft Learning",
+      "url": "",
+      "area": "Azure Fundamentals (AZ-900)",
+      "studyType": "Certification",
+      "startDate": "2024-06-01",
+      "endDate": "2024-06-01",
+      "score": "",
+      "courses": [
+        ""
+      ]
+    },
+    {
+      "institution": "CODERHOUSE",
+      "url": "",
+      "area": "REACT Js FLEX",
+      "studyType": "Course",
+      "startDate": "2024-06-01",
+      "endDate": "2024-08-01",
+      "score": "",
+      "courses": [
+        ""
+      ]
+    },
+    {
+      "institution": "CODERHOUSE",
+      "url": "",
+      "area": "SCRUM Metodologia Agiles",
+      "studyType": "Course",
+      "startDate": "2024-06-01",
+      "endDate": "2024-08-01",
+      "score": "",
+      "courses": [
+        ""
+      ]
+    },
+    {
+      "institution": "Cisco Networking Academy",
+      "url": "",
+      "area": "Introduction to Data Science",
+      "studyType": "Bachelor",
+      "startDate": "2023-11-01",
+      "endDate": "2023-11-01",
+      "score": "",
+      "courses": [
+        ""
+      ]
+    },
+    {
+      "institution": "INSTITUTO TECNOLOGICO DE SANTO DOMINGO (INTEC)",
+      "url": "",
+      "area": "Data Mining Tier 1",
+      "studyType": "Bachelor",
+      "startDate": "2022-01-01",
+      "endDate": "2022-01-01",
+      "score": "",
+      "courses": [
+        ""
       ]
     }],
     "awards": [{
-      "title": "Award",
-      "date": "2014-11-01",
-      "awarder": "Company",
-      "summary": "There is no spoon."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }],
     "certificates": [{
       "name": "Azure Fudamentals (AZ-900)",
@@ -109,15 +169,15 @@
       "url": "https://certificate.com"
     }],
     "publications": [{
-      "name": "Publication",
-      "publisher": "Company",
-      "releaseDate": "2014-10-01",
-      "url": "https://publication.com",
-      "summary": "Description…"
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
     }],
     "skills": [{
-      "name": "HTML",
-      "level": "Master",
+      "name": "SQL Server",
+      "level": "Junior",
       "keywords": [
         "HTML",
         "CSS",
@@ -125,8 +185,8 @@
       ]
     },
     {
-      "name": "Web Development",
-      "level": "Master",
+      "name": "React",
+      "level": "Junior",
       "keywords": [
         "HTML",
         "CSS",
@@ -134,8 +194,62 @@
       ]
     },
     {
-      "name": "Web Development",
-      "level": "Master",
+      "name": "C#",
+      "level": "Junior",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Azure",
+      "level": "Junior",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "SCRUM",
+      "level": "Junior",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Microsoft 365",
+      "level": "Junior",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Network Basic",
+      "level": "Junior",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "HTML - CSS - JavaScript",
+      "level": "Junior",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Proactive",
+      "level": "Junior",
       "keywords": [
         "HTML",
         "CSS",
@@ -151,24 +265,54 @@
       "fluency": "Mid-level"
     }],
     "interests": [{
-      "name": "Wildlife",
+      "name": "",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "",
+        ""
       ]
     }],
     "references": [{
-      "name": "Jane Doe",
-      "reference": "Reference…"
+      "name": "",
+      "reference": ""
     }],
     "projects": [{
-      "name": "Project",
-      "startDate": "2019-01-01",
-      "endDate": "2021-01-01",
-      "description": "Description...",
+      "name": "GestiOn Scarlata",
+      "startDate": "",
+      "endDate": "",
+      "description": "This project aims to optimize the processes of the Red Cross blood bank. We have developed an interface that allows users to access various functionalities efficiently and conveniently.",
       "highlights": [
-        "Won award at AIHacks 2016"
+        ""
       ],
-      "url": "https://project.com/"
+      "url": ""
+    },
+    {
+      "name": "Video to text transcriber",
+      "startDate": "",
+      "endDate": "",
+      "description": "I have developed a video-to-text transcriber in Python. In this project, I used the Google Translate library to efficiently transcribe the video audio. The tool automatically converts the video audio into text, facilitating the accessibility and management of multimedia content.",
+      "highlights": [
+        ""
+      ],
+      "url": ""
+    },
+    {
+      "name": "Rick and Morty PAGE",
+      "startDate": "",
+      "endDate": "",
+      "description": "I have developed a character search tool for my favorite series, Rick and Morty, using the REACT framework. Additionally, I implemented Tailwind CSS for the first time, which allowed me to create an attractive and functional user interface.",
+      "highlights": [
+        ""
+      ],
+      "url": ""
+    },
+    {
+      "name": "Ticket System EXCEL VBA",
+      "startDate": "",
+      "endDate": "",
+      "description": "I worked at a company that did not have a ticketing system to manage requests received via email. To improve this process, I created an application in Visual Basic that allows for tracking and generating reports on the received requests. I chose to develop it in Visual Basic to deliver it as quickly as possible and thus rapidly optimize the workflow.",
+      "highlights": [
+        ""
+      ],
+      "url": ""
     }]
   }

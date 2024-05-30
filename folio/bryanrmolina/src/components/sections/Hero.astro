@@ -5,6 +5,7 @@ import IEmail from '@/icons/IconsMail.astro'
 import IPhone from '@/icons/IconsPhon.astro'
 import LinkedIn from '@/icons/IconsLink.astro'
 import GitHub from '@/icons/IconsGith.astro'
+import { boolean } from 'astro/zod'
 
 const {name, label, image, location, profiles, phone, email, } = basics
 const {city, countryCode} = location
@@ -13,7 +14,11 @@ const SOCIAL_ICONS: Record<string, any> = {
     LinkedIn,
     GitHub
 }
+
+
+const printInfo = [email, phone, 'LinkedIn ➔ BryanRMolina'].filter(Boolean).join('☑️')
 ---
+
 
 <Section>
     <div class="container">
@@ -24,7 +29,11 @@ const SOCIAL_ICONS: Record<string, any> = {
                 {city}, {countryCode}
             </span>
 
-            <footer>
+            <footer class="print">
+                {printInfo}
+            </footer>
+
+            <footer class="no-print">
                 {
                     email && (
                         <a
@@ -118,6 +127,8 @@ const SOCIAL_ICONS: Record<string, any> = {
     }
 
     footer {
+        color: #555;
+        font-size: 0.65rem;
         display: flex;
         gap: 4px;
         margin-top: 8px;
