@@ -177,84 +177,57 @@
     }],
     "skills": [{
       "name": "SQL Server",
+      "image": "src/imgLocal/SQLServer.svg",
       "level": "Junior",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
+      "keywords": [ ]
     },
     {
       "name": "React",
+      "image": "src/imgLocal/react.svg",
       "level": "Junior",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
+      "keywords": [ ]
     },
     {
       "name": "C#",
+      "image": "src/imgLocal/CSharp.svg",
       "level": "Junior",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
+      "keywords": []
     },
     {
       "name": "Azure",
+      "image": "src/imgLocal/Azure.svg",
       "level": "Junior",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
+      "keywords": [ ]
     },
     {
       "name": "SCRUM",
+      "image": "src/imgLocal/Scrum.svg",
       "level": "Junior",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
+      "keywords": [ ]
     },
     {
       "name": "Microsoft 365",
+      "image": "src/imgLocal/Office365.svg",
       "level": "Junior",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
+      "keywords": [ ]
     },
     {
       "name": "Network Basic",
+      "image": "src/imgLocal/Network.svg",
       "level": "Junior",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
+      "keywords": [ ]
     },
     {
       "name": "HTML - CSS - JavaScript",
+      "image": "src/imgLocal/HtCsJa.svg",
       "level": "Junior",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
+      "keywords": [ ]
     },
     {
-      "name": "Proactive",
+      "name": "AppSheet",
+      "image": "src/imgLocal/AppSheet.svg",
       "level": "Junior",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
+      "keywords": [ ]
     }],
     "languages": [{
       "language": "Spanish",
