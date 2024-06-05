@@ -2,7 +2,7 @@
     "basics": {
       "name": "Bryan Roa Molina",
       "label": "System Ingenier | Developer | FrontEnd | Database | SCRUM | HelpDesk II",
-      "image": "https://i.postimg.cc/DzzSXGgL/WIN-20240522-16-09-31-Pro.jpg",
+      "image": "https://i.postimg.cc/wvCs6frN/Hand.jpg",
       "email": "BryanR.Molina@outlook.com",
       "phone": "(829)-665-6575",
       "url": "https://johndoe.com",
@@ -86,7 +86,7 @@
     }],
     "education": [{
       "institution": "INSTITUTO TECNOLOGICO DE SANTO DOMINGO (INTEC)",
-      "url": "",
+      "url": "https://portal.etitulo.com/visor.aspx?o=p&id=d5XwB",
       "area": "System Engineer",
       "studyType": "Bachelor",
       "startDate": "2019-11-12",
@@ -98,7 +98,7 @@
     },
     {
       "institution":"Microsoft Learning",
-      "url": "",
+      "url": "https://drive.google.com/drive/folders/146htj2y9pgqjy7u8_Y_ojPVSsW63DZvy?usp=drive_link",
       "area": "Azure Fundamentals (AZ-900)",
       "studyType": "Certification",
       "startDate": "2024-06-01",
@@ -109,21 +109,9 @@
       ]
     },
     {
-      "institution": "CODERHOUSE",
-      "url": "",
-      "area": "REACT Js FLEX",
-      "studyType": "Course",
-      "startDate": "2024-06-01",
-      "endDate": "2024-08-01",
-      "score": "",
-      "courses": [
-        ""
-      ]
-    },
-    {
-      "institution": "CODERHOUSE",
-      "url": "",
-      "area": "SCRUM Metodologia Agiles",
+      "institution": "ITLA",
+      "url": "https://drive.google.com/file/d/1BiBTcABHg8Uy-vgGcVqTtgEBEP6xEj9B/view",
+      "area": "DESAROLLO DE SOFTWARE EN JAVASCRIPT",
       "studyType": "Course",
       "startDate": "2024-06-01",
       "endDate": "2024-08-01",
@@ -134,7 +122,19 @@
     },
     {
       "institution": "Cisco Networking Academy",
-      "url": "",
+      "url": "https://www.credly.com/badges/7bfa8aee-2e58-4ef5-a615-db834ffab649",
+      "area": "CCNA: Introduction to Networks",
+      "studyType": "Course",
+      "startDate": "2024-06-01",
+      "endDate": "2024-08-01",
+      "score": "",
+      "courses": [
+        ""
+      ]
+    },
+    {
+      "institution": "Cisco Networking Academy",
+      "url": "https://www.credly.com/badges/3859dfc1-cc00-4808-b0bb-b647bce1744b",
       "area": "Introduction to Data Science",
       "studyType": "Bachelor",
       "startDate": "2023-11-01",
@@ -146,7 +146,7 @@
     },
     {
       "institution": "INSTITUTO TECNOLOGICO DE SANTO DOMINGO (INTEC)",
-      "url": "",
+      "url": "https://www.credly.com/badges/a627e76a-afc9-4dc7-b7cf-5bb1c3667dc9",
       "area": "Data Mining Tier 1",
       "studyType": "Bachelor",
       "startDate": "2022-01-01",
@@ -177,55 +177,55 @@
     }],
     "skills": [{
       "name": "SQL Server",
-      "image": "src/imgLocal/SQLServer.svg",
+      "image": "https://i.postimg.cc/rw5Vz7CV/SQLServer.png",
       "level": "Junior",
       "keywords": [ ]
     },
     {
       "name": "React",
-      "image": "src/imgLocal/react.svg",
+      "image": "https://i.postimg.cc/x1Nk5svh/react.png",
       "level": "Junior",
       "keywords": [ ]
     },
     {
       "name": "C#",
-      "image": "src/imgLocal/CSharp.svg",
+      "image": "https://i.postimg.cc/ZYv1TpLZ/CSharp.png",
       "level": "Junior",
       "keywords": []
     },
     {
       "name": "Azure",
-      "image": "src/imgLocal/Azure.svg",
+      "image": "https://i.postimg.cc/zvQMkXNs/Azure.png",
       "level": "Junior",
       "keywords": [ ]
     },
     {
       "name": "SCRUM",
-      "image": "src/imgLocal/Scrum.svg",
+      "image": "https://i.postimg.cc/R0QZp2Ns/Scrum.png",
       "level": "Junior",
       "keywords": [ ]
     },
     {
       "name": "Microsoft 365",
-      "image": "src/imgLocal/Office365.svg",
+      "image": "https://i.postimg.cc/7hX7vfhR/Office365.png",
       "level": "Junior",
       "keywords": [ ]
     },
     {
       "name": "Network Basic",
-      "image": "src/imgLocal/Network.svg",
+      "image": "https://i.postimg.cc/yxhjD1dh/Network.png",
       "level": "Junior",
       "keywords": [ ]
     },
     {
       "name": "HTML - CSS - JavaScript",
-      "image": "src/imgLocal/HtCsJa.svg",
+      "image": "https://i.postimg.cc/MGrFwpMv/HtCsJa.png",
       "level": "Junior",
       "keywords": [ ]
     },
     {
       "name": "AppSheet",
-      "image": "src/imgLocal/AppSheet.svg",
+      "image": "https://i.postimg.cc/vB6WCYw7/AppSheet.png",
       "level": "Junior",
       "keywords": [ ]
     }],

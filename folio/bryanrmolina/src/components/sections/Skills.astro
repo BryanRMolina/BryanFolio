@@ -7,9 +7,9 @@ import {skills} from 'C:/Users/BryanRoa/Downloads/PortFolio/folio/bryanrmolina/s
 <Section title = "Skills"> 
     <ul>
         {
-             skills.map(({ image }) => (
+             skills.map(({ image, name }) => (
                 <li>
-                    <img src={image}>
+                    <img title={name} src={image} >
                 </li>
                 )
             )
