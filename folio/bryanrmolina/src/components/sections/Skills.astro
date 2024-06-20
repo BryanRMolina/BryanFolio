@@ -1,11 +1,11 @@
 ---
 import Section from "../Section.astro";
 
-import {skills} from 'C:/Users/BryanRoa/Downloads/PortFolio/folio/bryanrmolina/src/cv.json'
+import {skills} from 'C:/Users/BryanRoa/Downloads/PROJECTS/PortFolio/folio/bryanrmolina/src/cv.json'
 ---
 
 <Section title = "Skills"> 
-    <ul>
+    <ul class ="no-print">
         {
              skills.map(({ image, name }) => (
                 <li>
@@ -15,16 +15,24 @@ import {skills} from 'C:/Users/BryanRoa/Downloads/PortFolio/folio/bryanrmolina/s
             )
         }
     </ul>
+    <ul class = "print">
+        {
+            skills.map(({ name }) => (
+                <li class="noprint" style="display: inline-flex;">
+                    <p>{name}</h2>
+                </li>
+            ))}
+    </ul>
 </Section>
 
 <style>
-    ul {
-        display: inline-flex;
-        gap: 8px;
-        flex-wrap: wrap;
-    }
+ul{
+    display: inline-flex;
+    gap: 8px;
+    flex-wrap: wrap;
+}
 
-    li {
+li{
         border-radius: 6px;
         background: #eee;
         color: black;
@@ -34,10 +42,10 @@ import {skills} from 'C:/Users/BryanRoa/Downloads/PortFolio/folio/bryanrmolina/s
 
     }
 
-    img {
+    img{
         margin-right: 4px;
         width: 50px;
         height: 50px;
     }
-
 </style>
+

@@ -1,16 +1,12 @@
 ---
 import Section from "../Section.astro";
-import {work} from 'C:/Users/BryanRoa/Downloads/PortFolio/folio/bryanrmolina/src/cv.json'
-
-
+import {work} from 'C:/Users/BryanRoa/Downloads/PROJECTS/PortFolio/folio/bryanrmolina/src/cv.json'
 ---
 
 <Section title = "Experience"> 
 <ul>
     {work.map(({ name, startDate, endDate, position, summary }) => 
         {
-       
-       
             const mesesAbreviados = ['JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC'];
 
             const startYear = new Date(startDate).getFullYear()
